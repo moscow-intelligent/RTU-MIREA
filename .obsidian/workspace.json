@@ -137,13 +137,21 @@
                 "file": "Test.md"
               }
             }
+          },
+          {
+            "id": "fe53e2b14a944673",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b23f09cf19e229e6",
+  "active": "fc58ae1fdc39787f",
   "lastOpenFiles": [
     "RTU-MIREA",
     "Test.md"
