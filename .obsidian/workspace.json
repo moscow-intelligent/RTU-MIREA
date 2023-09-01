@@ -14,6 +14,37 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "5718ba0fe1e47bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.09.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b6f9ef8f80a09d12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da2a834fade53aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -65,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "18d2d89436691a78",
@@ -81,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01.09.md"
+              }
             }
           },
           {
@@ -134,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe53e2b14a944673",
+  "active": "5718ba0fe1e47bc4",
   "lastOpenFiles": [
+    "01.09.md",
+    "Физика",
     "Test.md",
     "RTU-MIREA"
   ]
