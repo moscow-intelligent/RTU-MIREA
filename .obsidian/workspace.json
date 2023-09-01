@@ -8,69 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9010fae40d9947bc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5718ba0fe1e47bc4",
+            "id": "3e914bf79c5d74fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Физика/01.09.md",
+                "file": "Введение в проф деятельность/01.09.md",
                 "mode": "source",
                 "source": true
-              }
-            },
-            "group": "5f063b6649c43b12"
-          },
-          {
-            "id": "9a6df7a9de29c860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Физика/01.09.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8718d64165964967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Физика/01.09.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "b6f9ef8f80a09d12",
+        "id": "4c16eb5a2a800fcc",
         "type": "tabs",
         "children": [
           {
-            "id": "da2a834fade53aa7",
+            "id": "0762fc980c5a839e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Физика/01.09.md",
+                "file": "Введение в проф деятельность/01.09.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "5f063b6649c43b12"
+            }
           }
         ]
       }
@@ -138,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Физика/01.09.md",
+                "file": "Введение в проф деятельность/01.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Физика/01.09.md",
+                "file": "Введение в проф деятельность/01.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Физика/01.09.md"
+                "file": "Введение в проф деятельность/01.09.md"
               }
             }
           },
@@ -208,12 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8718d64165964967",
+  "active": "3e914bf79c5d74fe",
   "lastOpenFiles": [
+    "Физика/01.09.md",
+    "Введение в проф деятельность/01.09.md",
+    "Введение в проф деятельность",
     "Pasted image 20230901102059.png",
     "Pasted image 20230901102048.png",
     "img_user_file_547c992f6ea42_2-2021985636.jpg",
-    "Физика/01.09.md",
     "Pasted image 20230901095036.png",
     "Pasted image 20230901094924.png",
     "Pasted image 20230901094802.png",
