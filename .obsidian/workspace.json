@@ -25,7 +25,8 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "5f063b6649c43b12"
           }
         ],
         "currentTab": 1
@@ -44,7 +45,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "5f063b6649c43b12"
           }
         ]
       }
@@ -184,6 +186,9 @@
   },
   "active": "5718ba0fe1e47bc4",
   "lastOpenFiles": [
+    "Pasted image 20230901092927.png",
+    "img_user_file_547c992f6ea42_2-2021985636 1.jpg",
+    "img_user_file_547c992f6ea42_2-2021985636.jpg",
     "01.09.md",
     "Физика",
     "Test.md",
