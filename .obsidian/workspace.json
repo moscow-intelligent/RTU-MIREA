@@ -4,38 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "7a4f888ae4b6da28",
+        "id": "32a77df642637367",
         "type": "tabs",
         "children": [
           {
-            "id": "3e914bf79c5d74fe",
+            "id": "86094168c563b268",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Введение в проф деятельность/01.09.md",
+                "file": "Материалы Радиоэлектроники/01.09.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "449702fe79a2cdb3"
           }
         ]
       },
       {
-        "id": "4c16eb5a2a800fcc",
+        "id": "96f8984e1445dd58",
         "type": "tabs",
         "children": [
           {
-            "id": "0762fc980c5a839e",
+            "id": "ecdf79836e0a64b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Введение в проф деятельность/01.09.md",
+                "file": "Материалы Радиоэлектроники/01.09.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "449702fe79a2cdb3"
           }
         ]
       }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Введение в проф деятельность/01.09.md",
+                "file": "Материалы Радиоэлектроники/01.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Введение в проф деятельность/01.09.md",
+                "file": "Материалы Радиоэлектроники/01.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Введение в проф деятельность/01.09.md"
+                "file": "Материалы Радиоэлектроники/01.09.md"
               }
             }
           },
@@ -173,10 +175,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e914bf79c5d74fe",
+  "active": "86094168c563b268",
   "lastOpenFiles": [
-    "Физика/01.09.md",
     "Введение в проф деятельность/01.09.md",
+    "Материалы Радиоэлектроники/01.09.md",
+    "Материалы Радиоэлектроники",
+    "Физика/01.09.md",
     "Введение в проф деятельность",
     "Pasted image 20230901102059.png",
     "Pasted image 20230901102048.png",
