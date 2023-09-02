@@ -41,7 +41,8 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "a2a942736afbb374"
           }
         ],
         "currentTab": 2
@@ -60,7 +61,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "a2a942736afbb374"
           }
         ]
       }
@@ -198,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc58ae1fdc39787f",
+  "active": "a25faed6d3f8f2cf",
   "lastOpenFiles": [
     "Линал/02.09.md",
     "Мат Анализ/02.09.md",
