@@ -18,6 +18,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e5c7ea7a80dc036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Линал/02.09.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0da92f2f399951b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "292bf6084a8a8b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Линал/02.09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Материалы Радиоэлектроники/01.09.md",
+                "file": "Линал/02.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Материалы Радиоэлектроники/01.09.md",
+                "file": "Линал/02.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Материалы Радиоэлектроники/01.09.md"
+                "file": "Линал/02.09.md"
               }
             }
           },
@@ -155,10 +186,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecdf79836e0a64b8",
+  "active": "5e5c7ea7a80dc036",
   "lastOpenFiles": [
-    "Физика/01.09.md",
     "Материалы Радиоэлектроники/01.09.md",
+    "Линал/02.09.md",
+    "Линал",
+    "Физика/01.09.md",
     "th-3563314286.jpg",
     "Введение в проф деятельность/01.09.md",
     "Материалы Радиоэлектроники",
