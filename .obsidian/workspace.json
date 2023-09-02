@@ -11,8 +11,12 @@
             "id": "07f891e1269ec53b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Линал/02.09.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -151,48 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "443a56cd19e20441",
-    "type": "floating",
-    "children": [
-      {
-        "id": "72c69e7e2447a42e",
-        "type": "window",
-        "children": [
-          {
-            "id": "3e4771c1a20e0caa",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1162ce5a77e4f903",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Линал/02.09.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 122,
-        "y": 20,
-        "width": 668,
-        "height": 1288,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "1162ce5a77e4f903",
+  "active": "fc58ae1fdc39787f",
   "lastOpenFiles": [
+    "Линал/02.09.md",
     "Мат Анализ/02.09.md",
     "Материалы Радиоэлектроники/01.09.md",
-    "Линал/02.09.md",
     "Pasted image 20230902113703.png",
     "Pasted image 20230902112244.png",
     "Мат Анализ",
