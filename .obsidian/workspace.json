@@ -11,8 +11,12 @@
             "id": "6e795c9a99bbb765",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Линал/02.09.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Линал/02.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Линал/02.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Линал/02.09.md"
+              }
             }
           },
           {
@@ -149,16 +157,16 @@
   },
   "active": "6e795c9a99bbb765",
   "lastOpenFiles": [
+    "Физика/01.09.md",
+    "Материалы Радиоэлектроники/01.09.md",
     "Мат Анализ/02.09.md",
     "Линал/02.09.md",
-    "Материалы Радиоэлектроники/01.09.md",
+    "Введение в проф деятельность/01.09.md",
     "Pasted image 20230902113703.png",
     "Pasted image 20230902112244.png",
     "Мат Анализ",
     "Линал",
-    "Физика/01.09.md",
     "th-3563314286.jpg",
-    "Введение в проф деятельность/01.09.md",
     "Материалы Радиоэлектроники",
     "Введение в проф деятельность",
     "Pasted image 20230901102059.png",
