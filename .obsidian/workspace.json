@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "efdc0b1c9ac7f2cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "История России/04.09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c99bcfcad900fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "История России/04.09.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "История России/04.09.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "История России/04.09.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -192,15 +216,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fc68380b45c3222",
+  "active": "6c99bcfcad900fa1",
   "lastOpenFiles": [
+    "История России/04.09.md",
+    "conflict-files-obsidian-git.md",
     "Untitled 1.canvas",
     "2023-09-04.md",
     "Untitled.canvas",
-    "История России/04.09.md",
     "Мат Анализ/02.09.md",
     "Линал/02.09.md",
-    "conflict-files-obsidian-git.md",
     "Введение в проф деятельность/01.09.md",
     "История России",
     "Физика/01.09.md",
