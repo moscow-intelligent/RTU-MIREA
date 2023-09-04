@@ -53,30 +53,10 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "abe4f4c51e7c606c"
+            }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "9eadfe18cea9ed93",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0a0b31a9dbcb47d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "История России/04.09.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "abe4f4c51e7c606c"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a0b31a9dbcb47d0",
+  "active": "8fc68380b45c3222",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "История России/04.09.md",
