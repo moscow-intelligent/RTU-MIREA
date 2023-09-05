@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f65ce4191b12bc72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основы Российской Государственности/05.09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,12 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ec55267832e4478",
+  "active": "f65ce4191b12bc72",
   "lastOpenFiles": [
-    "История России/04.09.md",
-    "Основы Российской Государственности/05.09.md",
-    "Основы Российской Государственности",
     "conflict-files-obsidian-git.md",
+    "Основы Российской Государственности/05.09.md",
+    "История России/04.09.md",
+    "Основы Российской Государственности",
     "Untitled 1.canvas",
     "2023-09-04.md",
     "Untitled.canvas",
