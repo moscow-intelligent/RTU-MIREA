@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e795c9a99bbb765",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Линал/02.09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbbe57223654335b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Мат Анализ/02.09.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "124ae52b8d321326",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Введение в проф деятельность/01.09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fc68380b45c3222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "История России/04.09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efdc0b1c9ac7f2cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "История России/04.09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3ec55267832e4478",
             "type": "leaf",
             "state": {
@@ -79,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc58ae1fdc39787f",
+  "active": "3ec55267832e4478",
   "lastOpenFiles": [
     "История России/04.09.md",
     "Основы Российской Государственности/05.09.md",
