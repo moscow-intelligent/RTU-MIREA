@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "История России/05.09.md",
+                "file": "Линал/02.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "История России/05.09.md",
+                "file": "Линал/02.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "История России/05.09.md",
+                "file": "Линал/02.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "История России/05.09.md"
+                "file": "Линал/02.09.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "f65ce4191b12bc72",
   "lastOpenFiles": [
-    "История России/04.09.md",
     "История России/05.09.md",
+    "История России/04.09.md",
     "Основы Российской Государственности/05.09.md",
     "conflict-files-obsidian-git.md",
     "Основы Российской Государственности",
