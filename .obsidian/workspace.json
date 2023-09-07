@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мат Анализ/02.09.md",
+                "file": "Мат Анализ/06.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мат Анализ/02.09.md",
+                "file": "Мат Анализ/06.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Мат Анализ/02.09.md",
+                "file": "Мат Анализ/06.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мат Анализ/02.09.md"
+                "file": "Мат Анализ/06.09.md"
               }
             }
           },
@@ -182,6 +182,8 @@
   },
   "active": "fc58ae1fdc39787f",
   "lastOpenFiles": [
+    "Линал/06.09.md",
+    "Мат Анализ/02.09.md",
     "Линал/02.09.md",
     "Основы Российской Государственности/05.09.md",
     "Англ. Яз/07.09.md",
@@ -200,8 +202,6 @@
     "История России/05.09.md",
     "История России/04.09.md",
     "Мат Анализ/06.09.md",
-    "Мат Анализ/02.09.md",
-    "Линал/06.09.md",
     "conflict-files-obsidian-git.md",
     "Основы Российской Государственности",
     "Untitled 1.canvas",
