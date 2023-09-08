@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Русский язык/08.09.md",
+                "file": "Материалы Радиоэлектроники/08.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Русский язык/08.09.md",
+                "file": "Материалы Радиоэлектроники/08.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Русский язык/08.09.md",
+                "file": "Материалы Радиоэлектроники/08.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Русский язык/08.09.md"
+                "file": "Материалы Радиоэлектроники/08.09.md"
               }
             }
           },
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 355.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +191,10 @@
   },
   "active": "18fd4f30abd8cb50",
   "lastOpenFiles": [
+    "Русский язык/08.09.md",
+    "Материалы Радиоэлектроники/08.09.md",
     "Основы Российской Государственности/05.09.md",
     "Материалы Радиоэлектроники/01.09.md",
-    "Русский язык/08.09.md",
     "Мат Анализ/06.09.md",
     "Физика/08.09.md",
     "Русский язык",
