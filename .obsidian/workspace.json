@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "18d2d89436691a78",
@@ -204,7 +205,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc58ae1fdc39787f",
+  "active": "37e06c8080c7b017",
   "lastOpenFiles": [
     "Физика/08.09.md",
     "Русский язык/08.09.md",
