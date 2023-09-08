@@ -6,5 +6,6 @@
     "downscalePercent": 100
   },
   "tabSize": 3,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "autoPairMarkdown": false
 }
