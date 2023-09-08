@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-execute-python",
+	"name": "Execute Python",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "lightweight Python code snippet executor with runtime input support",
+	"author": "williamechols",
+	"authorUrl": "https://williamechols.com",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
