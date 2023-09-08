@@ -37,30 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мат Анализ/06.09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7babc93662e0b0a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Физика/08.09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37e06c8080c7b017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Русский язык/08.09.md",
                 "mode": "source",
                 "source": false
@@ -68,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "18d2d89436691a78",
@@ -205,10 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37e06c8080c7b017",
+  "active": "18fd4f30abd8cb50",
   "lastOpenFiles": [
-    "Физика/08.09.md",
     "Русский язык/08.09.md",
+    "Мат Анализ/06.09.md",
+    "Физика/08.09.md",
     "Русский язык",
     "Pasted image 20230908102804.png",
     "Pasted image 20230908102759.png",
@@ -230,7 +206,6 @@
     "Англ. Яз",
     "История России/05.09.md",
     "История России/04.09.md",
-    "Мат Анализ/06.09.md",
     "conflict-files-obsidian-git.md",
     "Основы Российской Государственности",
     "Untitled 1.canvas",
