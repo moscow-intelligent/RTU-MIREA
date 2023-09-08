@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "История России/04.09.md",
+                "file": "Введение в проф деятельность/01.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "История России/04.09.md",
+                "file": "Введение в проф деятельность/01.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "История России/04.09.md",
+                "file": "Введение в проф деятельность/01.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "История России/04.09.md"
+                "file": "Введение в проф деятельность/01.09.md"
               }
             }
           },
@@ -169,11 +169,14 @@
   },
   "active": "ef0ccddf9ec64815",
   "lastOpenFiles": [
-    "Мат Анализ/02.09.md",
     "История России/04.09.md",
+    "test.md",
+    "t.me/lukavanhorn.md",
+    "t.me",
+    "Untitled.canvas",
+    "Мат Анализ/02.09.md",
     "Линал/02.09.md",
     "История России",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "2023-09-04.md",
     "Материалы Радиоэлектроники/01.09.md",
