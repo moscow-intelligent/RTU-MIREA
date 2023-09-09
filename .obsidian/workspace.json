@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Линал/09.09.md",
+                "file": "Основы Российской Государственности/ДЗ_ОРГ.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "18d2d89436691a78",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основы Российской Государственности/05.09.md",
+                "file": "Основы Российской Государственности/ДЗ_ОРГ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основы Российской Государственности/05.09.md",
+                "file": "Основы Российской Государственности/ДЗ_ОРГ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основы Российской Государственности/05.09.md"
+                "file": "Основы Российской Государственности/ДЗ_ОРГ.md"
               }
             }
           },
@@ -180,11 +179,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 737.5
+    "width": 737.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,18 +198,19 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "f517ecc3e3232cef",
+  "active": "18fd4f30abd8cb50",
   "lastOpenFiles": [
+    "Линал/09.09.md",
+    "Основы Российской Государственности/ДЗ_ОРГ.md",
+    "Основы Российской Государственности/05.09.md",
     "Мат Анализ/09.09.md",
     "Физика/08.09.md",
     "Русский язык/08.09.md",
     "2023-09-04.md",
     "Материалы Радиоэлектроники/08.09.md",
-    "Основы Российской Государственности/05.09.md",
     "История России/04.09.md",
     "История России/05.09.md",
     "Англ. Яз/07.09.md",
-    "Линал/09.09.md",
     "Pasted image 20230909111314.png",
     "Мат Анализ/06.09.md",
     "Физика/07.09.md",
