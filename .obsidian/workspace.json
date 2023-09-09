@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +189,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "18fd4f30abd8cb50",
+  "active": "f517ecc3e3232cef",
   "lastOpenFiles": [
     "Материалы Радиоэлектроники/01.09.md",
     "Материалы Радиоэлектроники/08.09.md",
