@@ -179,12 +179,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 737.5,
-    "collapsed": true
+    "width": 737.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +197,7 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "18fd4f30abd8cb50",
+  "active": "f517ecc3e3232cef",
   "lastOpenFiles": [
     "Pasted image 20230909111314.png",
     "Мат Анализ/06.09.md",
