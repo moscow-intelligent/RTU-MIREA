@@ -7,5 +7,6 @@
   },
   "tabSize": 3,
   "readableLineLength": false,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "promptDelete": false
 }
