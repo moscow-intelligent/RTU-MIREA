@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Правоведение/11.09.md",
+                "file": "История России/11.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Правоведение/11.09.md",
+                "file": "История России/11.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Правоведение/11.09.md",
+                "file": "История России/11.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Правоведение/11.09.md"
+                "file": "История России/11.09.md"
               }
             }
           },
@@ -179,11 +179,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 737.5
+    "width": 737.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +198,11 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "f517ecc3e3232cef",
+  "active": "c91aa5cf58fc7d0c",
   "lastOpenFiles": [
-    "Основы Российской Государственности/ДЗ_ОРГ.md",
     "Правоведение/11.09.md",
+    "История России/11.09.md",
+    "Основы Российской Государственности/ДЗ_ОРГ.md",
     "Правоведение",
     "Основы Российской Государственности/05.09.md",
     "Линал/09.09.md",
