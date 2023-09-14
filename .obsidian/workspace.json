@@ -1,64 +1,70 @@
 {
   "main": {
-    "id": "cd963a728bab487e",
+    "id": "5c76a6e0cb91253c",
     "type": "split",
     "children": [
       {
-        "id": "5829444bed803084",
+        "id": "f709653e6055a17f",
         "type": "tabs",
         "children": [
           {
-            "id": "3ec55267832e4478",
+            "id": "f6a0f8f763b4efd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основы Российской Государственности/05.09.md",
+                "file": "Физика/08.09.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f65ce4191b12bc72",
+            "id": "6663fcc53861c2fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "История России/12.09.md",
+                "file": "Русский язык/ДЗ/15.09.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d550865bd2f837be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Англ. Яз/14.09.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "88ad05c49d4493af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4c73bc982e9043a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Русский язык/ДЗ/15.09.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "054002b1217231a0",
+    "id": "3897723f5e6dbdef",
     "type": "split",
     "children": [
       {
-        "id": "541b78e0ba0e979d",
+        "id": "727b8bfa91c5ce3e",
         "type": "tabs",
         "children": [
           {
-            "id": "fc58ae1fdc39787f",
+            "id": "5e178b643f15671e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +74,7 @@
             }
           },
           {
-            "id": "9f710146f00b5dc9",
+            "id": "3f9862e74bb77074",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +89,7 @@
             }
           },
           {
-            "id": "856a66cbd2ba1883",
+            "id": "e86a9c429f16dd84",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,24 +100,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "18d2d89436691a78",
+    "id": "29cc94b64a3897e0",
     "type": "split",
     "children": [
       {
-        "id": "38154d69432096b6",
+        "id": "0388f46d7abf67d0",
         "type": "tabs",
         "children": [
           {
-            "id": "b8eb066d3af40b8f",
+            "id": "e666571b47922438",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Англ. Яз/14.09.md",
+                "file": "Русский язык/ДЗ/15.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,19 +129,19 @@
             }
           },
           {
-            "id": "10523a09c63f390e",
+            "id": "5011c8b0ddce9912",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Англ. Яз/14.09.md",
+                "file": "Русский язык/ДЗ/15.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f4811dcbe8e0b81a",
+            "id": "8be2d6f566bc15fb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -146,41 +152,17 @@
             }
           },
           {
-            "id": "39f0d0a30bc147b2",
+            "id": "d91eb2c20a265537",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Англ. Яз/14.09.md"
+                "file": "Русский язык/ДЗ/15.09.md"
               }
             }
           },
           {
-            "id": "fe53e2b14a944673",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "f517ecc3e3232cef",
-            "type": "leaf",
-            "state": {
-              "type": "mathpad-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c91aa5cf58fc7d0c",
-            "type": "leaf",
-            "state": {
-              "type": "ObsiDOOM Side Panel",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2d591e05148911d",
+            "id": "c77ab02754a8a3dc",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -189,12 +171,11 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 539.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -207,55 +188,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d550865bd2f837be",
+  "active": "e4c73bc982e9043a",
   "lastOpenFiles": [
-    "Англ. Яз/07.09.md",
-    "Англ. Яз/14.09.md",
     "Физика/14.09.md",
-    "Pasted image 20230914095054.png",
+    "Русский язык/ДЗ/15.09.md",
+    "Русский язык/ДЗ",
     "Физика/08.09.md",
     "История России/12.09.md",
-    "conflict-files-obsidian-git.md",
-    "История России/05.09.md",
-    "История России/11.09.md",
-    "Основы Российской Государственности/12.09.md",
-    "Основы Российской Государственности/05.09.md",
-    "Основы Российской Государственности/ДЗ_ОРГ.md",
-    "Основы Российской Государственности/11.09.md",
-    "История России/04.09.md",
-    "Правоведение/11.09.md",
-    "Правоведение",
-    "Линал/09.09.md",
-    "Мат Анализ/09.09.md",
-    "Русский язык/08.09.md",
-    "2023-09-04.md",
-    "Материалы Радиоэлектроники/08.09.md",
-    "Pasted image 20230909111314.png",
-    "Мат Анализ/06.09.md",
+    "Англ. Яз/14.09.md",
+    "Pasted image 20230914095054.png",
     "Физика/07.09.md",
-    "Pasted image 20230909092226.png",
-    "Pasted image 20230909092217.png",
-    "Pasted image 20230909092207.png",
-    "Линал/06.09.md",
-    "Безымянный-2023-09-08-1321.png",
-    "Линал/02.09.md",
-    "Материалы Радиоэлектроники/01.09.md",
-    "Русский язык",
-    "Pasted image 20230908102804.png",
-    "Pasted image 20230908102759.png",
-    "Pasted image 20230908102455.png",
-    "Pasted image 20230908101628.png",
-    "Физика/01.09.md",
-    "Мат Анализ/02.09.md",
-    "Англ. Яз",
-    "Основы Российской Государственности",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "История России",
-    "Мат Анализ",
-    "Линал",
-    "Материалы Радиоэлектроники",
-    "Введение в проф деятельность",
-    "Физика"
+    "Физика/01.09.md"
   ]
 }
