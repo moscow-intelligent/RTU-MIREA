@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мат Анализ/06.09.md",
+                "file": "Физика/15.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мат Анализ/06.09.md",
+                "file": "Физика/15.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Мат Анализ/06.09.md",
+                "file": "Физика/15.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мат Анализ/06.09.md"
+                "file": "Физика/15.09.md"
               }
             }
           },
@@ -205,8 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc58ae1fdc39787f",
+  "active": "3ec55267832e4478",
   "lastOpenFiles": [
+    "Pasted image 20230915090844.png",
+    "Мат Анализ/06.09.md",
+    "Физика/15.09.md",
     "Мат Анализ/09.09.md",
     "Основы Российской Государственности/05.09.md",
     "Англ. Яз/14.09.md",
@@ -229,7 +232,6 @@
     "2023-09-04.md",
     "Материалы Радиоэлектроники/08.09.md",
     "Pasted image 20230909111314.png",
-    "Мат Анализ/06.09.md",
     "Физика/07.09.md",
     "Pasted image 20230909092226.png",
     "Pasted image 20230909092217.png",
@@ -243,8 +245,6 @@
     "Pasted image 20230908102759.png",
     "Pasted image 20230908102455.png",
     "Pasted image 20230908101628.png",
-    "Физика/01.09.md",
-    "Мат Анализ/02.09.md",
     "Англ. Яз",
     "Основы Российской Государственности",
     "Untitled 1.canvas",
