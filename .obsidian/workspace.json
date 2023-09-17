@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f709653e6055a17f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f6a0f8f763b4efd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Физика/08.09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6663fcc53861c2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Русский язык/ДЗ/15.09.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "88ad05c49d4493af",
         "type": "tabs",
         "children": [
@@ -44,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Русский язык/ДЗ/15.09.md",
-                "mode": "preview",
+                "file": "История России/ДЗ/19.09.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -100,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29cc94b64a3897e0",
@@ -117,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Русский язык/ДЗ/15.09.md",
+                "file": "История России/ДЗ/19.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Русский язык/ДЗ/15.09.md",
+                "file": "История России/ДЗ/19.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Русский язык/ДЗ/15.09.md"
+                "file": "История России/ДЗ/19.09.md"
               }
             }
           },
@@ -190,8 +158,10 @@
   },
   "active": "e4c73bc982e9043a",
   "lastOpenFiles": [
-    "Физика/14.09.md",
     "Русский язык/ДЗ/15.09.md",
+    "История России/ДЗ/19.09.md",
+    "История России/ДЗ",
+    "Физика/14.09.md",
     "Русский язык/ДЗ",
     "Физика/08.09.md",
     "История России/12.09.md",
