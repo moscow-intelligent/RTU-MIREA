@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3cdb458d5adaaa6e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4c73bc982e9043a",
+  "active": "3cdb458d5adaaa6e",
   "lastOpenFiles": [
     "Русский язык/ДЗ/15.09.md",
     "История России/ДЗ/19.09.md",
