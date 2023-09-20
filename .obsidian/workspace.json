@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "18d2d89436691a78",
@@ -230,7 +231,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0141529ba31dad8a",
+  "active": "fc58ae1fdc39787f",
   "lastOpenFiles": [
     "Pasted image 20230920105158.png",
     "Мат Анализ/16.09.md",
