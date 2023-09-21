@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Физика/15.09.md",
+                "file": "Физика/08.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,11 +114,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "18d2d89436691a78",
@@ -134,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Физика/15.09.md",
+                "file": "Физика/08.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Физика/15.09.md",
+                "file": "Физика/08.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Физика/15.09.md"
+                "file": "Физика/08.09.md"
               }
             }
           },
@@ -230,8 +232,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0141529ba31dad8a",
+  "active": "9f710146f00b5dc9",
   "lastOpenFiles": [
+    "Линал/16.09.md",
+    "Физика/15.09.md",
+    "Физика/14.09.md",
+    "Физика/21.09.md",
     "Мат Анализ/20.09.md",
     "Мат Анализ/09.09.md",
     "Мат Анализ/06.09.md",
@@ -240,7 +246,6 @@
     "Pasted image 20230920105158.png",
     "Линал/20.09.md",
     "conflict-files-obsidian-git.md",
-    "Линал/16.09.md",
     "История России/ДЗ/19.09.md",
     "Основы Российской Государственности/19.09.md",
     "История России/ДЗ",
@@ -254,19 +259,16 @@
     "История России/12.09.md",
     "Англ. Яз/14.09.md",
     "Англ. Яз/07.09.md",
-    "Физика/15.09.md",
     "Физика/08.09.md",
     "Линал/09.09.md",
     "Введение в проф деятельность/15.09.md",
     "Русский язык/ДЗ",
-    "Введение в проф деятельность/01.09.md",
     "Pasted image 20230915095504.png",
     "Pasted image 20230915094211.png",
     "Pasted image 20230915092900.png",
     "Pasted image 20230915091747.png",
     "Pasted image 20230915091648.png",
     "Pasted image 20230915090844.png",
-    "Физика/14.09.md",
     "Pasted image 20230914095054.png",
     "Правоведение",
     "Pasted image 20230909111314.png",
