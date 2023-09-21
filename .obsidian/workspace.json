@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "756608e5ab1668e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Англ. Яз/21.09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,13 +126,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "18d2d89436691a78",
@@ -136,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Физика/08.09.md",
+                "file": "Англ. Яз/21.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Физика/08.09.md",
+                "file": "Англ. Яз/21.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Физика/08.09.md"
+                "file": "Англ. Яз/21.09.md"
               }
             }
           },
@@ -232,8 +242,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f710146f00b5dc9",
+  "active": "756608e5ab1668e0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Англ. Яз/14.09.md",
+    "Англ. Яз/21.09.md",
     "Линал/16.09.md",
     "Физика/15.09.md",
     "Физика/14.09.md",
@@ -257,11 +270,8 @@
     "Русский язык/08.09.md",
     "Русский язык/15.09.md",
     "История России/12.09.md",
-    "Англ. Яз/14.09.md",
     "Англ. Яз/07.09.md",
     "Физика/08.09.md",
-    "Линал/09.09.md",
-    "Введение в проф деятельность/15.09.md",
     "Русский язык/ДЗ",
     "Pasted image 20230915095504.png",
     "Pasted image 20230915094211.png",
