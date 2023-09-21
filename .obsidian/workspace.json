@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "18d2d89436691a78",
@@ -231,11 +230,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc58ae1fdc39787f",
+  "active": "0141529ba31dad8a",
   "lastOpenFiles": [
-    "Pasted image 20230920105158.png",
+    "Мат Анализ/09.09.md",
+    "Мат Анализ/06.09.md",
+    "Мат Анализ/02.09.md",
     "Мат Анализ/16.09.md",
     "Мат Анализ/20.09.md",
+    "Pasted image 20230920105158.png",
     "Линал/20.09.md",
     "conflict-files-obsidian-git.md",
     "Линал/16.09.md",
@@ -252,7 +254,6 @@
     "История России/12.09.md",
     "Англ. Яз/14.09.md",
     "Англ. Яз/07.09.md",
-    "Мат Анализ/09.09.md",
     "Физика/15.09.md",
     "Физика/08.09.md",
     "Линал/09.09.md",
@@ -265,13 +266,11 @@
     "Pasted image 20230915091747.png",
     "Pasted image 20230915091648.png",
     "Pasted image 20230915090844.png",
-    "Мат Анализ/06.09.md",
     "Физика/14.09.md",
     "Pasted image 20230914095054.png",
     "Правоведение",
     "Pasted image 20230909111314.png",
     "Pasted image 20230909092226.png",
-    "Pasted image 20230909092217.png",
     "Русский язык",
     "Англ. Яз",
     "Основы Российской Государственности",
