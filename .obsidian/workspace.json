@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e303e355dbb2104b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Линал/16.09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d6f2ccd8791d6d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Основы Российской Государственности/19.09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22774919cdaac436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "История России/ДЗ/19.09.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "738549518e979d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Линал/20.09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0141529ba31dad8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Физика/08.09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "756608e5ab1668e0",
             "type": "leaf",
             "state": {
@@ -79,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "18d2d89436691a78",
