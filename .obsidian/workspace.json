@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Физика/22.09.md",
+                "file": "Линал/23.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "18d2d89436691a78",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Физика/22.09.md",
+                "file": "Линал/23.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Физика/22.09.md",
+                "file": "Линал/23.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Физика/22.09.md"
+                "file": "Линал/23.09.md"
               }
             }
           },
@@ -184,6 +183,9 @@
   },
   "active": "756608e5ab1668e0",
   "lastOpenFiles": [
+    "Линал/20.09.md",
+    "Линал/23.09.md",
+    "Физика/22.09.md",
     "Pasted image 20230922100626.png",
     "Pasted image 20230922092337.png",
     "Pasted image 20230922092332.png",
@@ -194,7 +196,6 @@
     "Pasted image 20230922090545.png",
     "Pasted image 20230922090339.png",
     "Физика/15.09.md",
-    "Физика/22.09.md",
     "Физика/21.09.md",
     "Англ. Яз/21.09.md",
     "Untitled.md",
@@ -207,7 +208,6 @@
     "Мат Анализ/02.09.md",
     "Мат Анализ/16.09.md",
     "Pasted image 20230920105158.png",
-    "Линал/20.09.md",
     "conflict-files-obsidian-git.md",
     "История России/ДЗ/19.09.md",
     "Основы Российской Государственности/19.09.md",
@@ -221,7 +221,6 @@
     "Русский язык/15.09.md",
     "История России/12.09.md",
     "Русский язык/ДЗ",
-    "Pasted image 20230915095504.png",
     "Правоведение",
     "Русский язык",
     "Англ. Яз",
