@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "449d9f341a565465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "История России/ДЗ/19.09.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "История России/ДЗ/19.09.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "История России/ДЗ/19.09.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,37 +181,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e178b643f15671e",
+  "active": "449d9f341a565465",
   "lastOpenFiles": [
+    "История России/ДЗ/19.09.md",
+    "conflict-files-obsidian-git.md",
+    "Физика/22.09.md",
+    "Физика/21.09.md",
+    "Мат Анализ/20.09.md",
+    "Линал/23.09.md",
+    "Англ. Яз/21.09.md",
+    "Untitled.md",
+    "Pasted image 20230922100626.png",
+    "Pasted image 20230922092337.png",
+    "Pasted image 20230922092332.png",
+    "Pasted image 20230922091840.png",
+    "Pasted image 20230922090747.png",
+    "Pasted image 20230922090631.png",
+    "Pasted image 20230922090626.png",
+    "Pasted image 20230922090545.png",
+    "Pasted image 20230922090339.png",
+    "Pasted image 20230920105158.png",
     "Линал/06.09.md",
     "Линал/09.09.md",
     "История России/05.09.md",
     "История России/04.09.md",
     "Линал/02.09.md",
     "Линал/20.09.md",
-    "conflict-files-obsidian-git.md",
     "Физика/15.09.md",
     "Русский язык/15.09.md",
     "Основы Российской Государственности/19.09.md",
     "Мат Анализ/16.09.md",
     "Линал/16.09.md",
     "Введение в проф деятельность/15.09.md",
-    "Pasted image 20230915095504.png",
-    "Pasted image 20230915094211.png",
-    "Pasted image 20230915092900.png",
-    "Pasted image 20230915091747.png",
-    "Pasted image 20230915091648.png",
-    "Pasted image 20230915090844.png",
     "Русский язык/ДЗ/15.09.md",
-    "История России/ДЗ/19.09.md",
     "История России/ДЗ",
     "Физика/14.09.md",
     "Русский язык/ДЗ",
     "Физика/08.09.md",
     "История России/12.09.md",
     "Англ. Яз/14.09.md",
-    "Pasted image 20230914095054.png",
-    "Физика/07.09.md",
-    "Физика/01.09.md"
+    "Физика/07.09.md"
   ]
 }
