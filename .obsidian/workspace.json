@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2423b6c6c4eb7fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основы Российской Государственности/ДЗ/26.09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42f2426b67f29540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основы Российской Государственности/05.09.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основы Российской Государственности/05.09.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основы Российской Государственности/05.09.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -181,10 +206,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "756608e5ab1668e0",
+  "active": "42f2426b67f29540",
   "lastOpenFiles": [
-    "ПОСЕЩАЕМОСТЬ.md",
+    "Основы Российской Государственности/ДЗ/26.09.md",
+    "conflict-files-obsidian-git.md",
     "Основы Российской Государственности/05.09.md",
+    "Основы Российской Государственности/ДЗ",
+    "piecesdb.json",
+    "ПОСЕЩАЕМОСТЬ.md",
     "Основы Российской Государственности/19.09.md",
     "Основы Российской Государственности/11.09.md",
     "Мат Анализ/20.09.md",
@@ -214,12 +243,10 @@
     "Мат Анализ/09.09.md",
     "Мат Анализ/06.09.md",
     "Мат Анализ/02.09.md",
-    "conflict-files-obsidian-git.md",
     "История России/ДЗ/19.09.md",
     "История России/ДЗ",
     "Материалы Радиоэлектроники/08.09.md",
     "Правоведение/11.09.md",
-    "Русский язык/ДЗ/15.09.md",
     "Русский язык/ДЗ",
     "Правоведение",
     "Русский язык",
@@ -228,8 +255,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "История России",
-    "Мат Анализ",
-    "Линал",
-    "Материалы Радиоэлектроники"
+    "Мат Анализ"
   ]
 }
