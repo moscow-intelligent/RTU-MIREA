@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c19f8a62d3cb3d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Линал/27.09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "18d2d89436691a78",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мат Анализ/20.09.md",
+                "file": "Линал/27.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Мат Анализ/20.09.md",
+                "file": "Линал/27.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мат Анализ/20.09.md"
+                "file": "Линал/27.09.md"
               }
             }
           },
@@ -194,8 +207,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2423b6c6c4eb7fa",
+  "active": "c19f8a62d3cb3d66",
   "lastOpenFiles": [
+    "Линал/27.09.md",
     "Мат Анализ/23.09.md",
     "История России/ДЗ/19.09.md",
     "Основы Российской Государственности/ДЗ/26.09.md",
@@ -234,7 +248,6 @@
     "Мат Анализ/02.09.md",
     "История России/ДЗ",
     "Материалы Радиоэлектроники/08.09.md",
-    "Правоведение/11.09.md",
     "Русский язык/ДЗ",
     "Правоведение",
     "Русский язык",
