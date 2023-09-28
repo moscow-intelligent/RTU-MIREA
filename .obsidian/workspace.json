@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Физика/28.09.md",
+                "file": "Англ. Яз/28.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "18d2d89436691a78",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Физика/28.09.md",
+                "file": "Англ. Яз/28.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Физика/28.09.md",
+                "file": "Англ. Яз/28.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Физика/28.09.md"
+                "file": "Англ. Яз/28.09.md"
               }
             }
           },
@@ -209,10 +208,14 @@
   },
   "active": "c19f8a62d3cb3d66",
   "lastOpenFiles": [
+    "Англ. Яз/07.09.md",
+    "Англ. Яз/14.09.md",
+    "Англ. Яз/21.09.md",
+    "Англ. Яз/28.09.md",
+    "Физика/28.09.md",
     "Физика/14.09.md",
     "Физика/21.09.md",
     "Физика/15.09.md",
-    "Физика/28.09.md",
     "Физика/22.09.md",
     "Pasted image 20230928092445.png",
     "Pasted image 20230928092401.png",
@@ -239,13 +242,10 @@
     "piecesdb.json",
     "ПОСЕЩАЕМОСТЬ.md",
     "Основы Российской Государственности/19.09.md",
-    "Основы Российской Государственности/11.09.md",
     "Pasted image 20230923105032.png",
-    "Линал/09.09.md",
     "Pasted image 20230922100626.png",
     "Pasted image 20230922092337.png",
     "Pasted image 20230922092332.png",
-    "Англ. Яз/21.09.md",
     "История России/ДЗ",
     "Русский язык/ДЗ",
     "Правоведение",
