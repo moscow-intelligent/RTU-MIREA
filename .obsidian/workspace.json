@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мат Анализ/02.09.md",
+                "file": "Физика/29.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мат Анализ/02.09.md",
+                "file": "Физика/29.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Мат Анализ/02.09.md",
+                "file": "Физика/29.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мат Анализ/02.09.md"
+                "file": "Физика/29.09.md"
               }
             }
           },
@@ -181,8 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc58ae1fdc39787f",
+  "active": "c19f8a62d3cb3d66",
   "lastOpenFiles": [
+    "Мат Анализ/02.09.md",
+    "Физика/29.09.md",
     "Мат Анализ/20.09.md",
     "Мат Анализ/27.09.md",
     "Мат Анализ/23.09.md",
@@ -215,8 +217,6 @@
     "Основы Российской Государственности/05.09.md",
     "Основы Российской Государственности/ДЗ",
     "piecesdb.json",
-    "ПОСЕЩАЕМОСТЬ.md",
-    "Основы Российской Государственности/19.09.md",
     "Pasted image 20230923105032.png",
     "Pasted image 20230922100626.png",
     "Pasted image 20230922092337.png",
