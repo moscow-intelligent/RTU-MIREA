@@ -73,14 +73,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мат Анализ/20.09.md",
+                "file": "Мат Анализ/23.09.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "01fd39c6ce99b164",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мат Анализ/20.09.md",
+                "file": "Мат Анализ/23.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Мат Анализ/20.09.md",
+                "file": "Мат Анализ/23.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мат Анализ/20.09.md"
+                "file": "Мат Анализ/23.09.md"
               }
             }
           },
@@ -226,11 +236,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a9f03647bd61236",
+  "active": "01fd39c6ce99b164",
   "lastOpenFiles": [
+    "Мат Анализ/20.09.md",
     "Мат Анализ/16.09.md",
     "Мат Анализ/23.09.md",
-    "Мат Анализ/20.09.md",
     "Мат Анализ/09.09.md",
     "Мат Анализ/06.09.md",
     "Мат Анализ/02.09.md",
