@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мат Анализ/20.09.md",
+                "file": "Мат Анализ/16.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мат Анализ/20.09.md",
+                "file": "Мат Анализ/16.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Мат Анализ/20.09.md",
+                "file": "Мат Анализ/16.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мат Анализ/20.09.md"
+                "file": "Мат Анализ/16.09.md"
               }
             }
           },
@@ -240,8 +240,8 @@
   },
   "active": "01fd39c6ce99b164",
   "lastOpenFiles": [
-    "Мат Анализ/23.09.md",
     "Мат Анализ/20.09.md",
+    "Мат Анализ/23.09.md",
     "Мат Анализ/06.09.md",
     "Мат Анализ/09.09.md",
     "Мат Анализ/16.09.md",
