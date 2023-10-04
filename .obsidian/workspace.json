@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Линал/27.09.md",
+                "file": "Мат Анализ/27.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Линал/27.09.md",
+                "file": "Мат Анализ/27.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Линал/27.09.md",
+                "file": "Мат Анализ/27.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Линал/27.09.md"
+                "file": "Мат Анализ/27.09.md"
               }
             }
           },
@@ -183,11 +183,11 @@
   },
   "active": "c19f8a62d3cb3d66",
   "lastOpenFiles": [
+    "Линал/27.09.md",
     "Линал/09.09.md",
     "Линал/16.09.md",
     "Линал/20.09.md",
     "Линал/23.09.md",
-    "Линал/27.09.md",
     "Линал/06.09.md",
     "Линал/04.10.md",
     "Основы Российской Государственности/05.09.md",
