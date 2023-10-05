@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мат Анализ/06.09.md",
+                "file": "Физика/29.09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мат Анализ/06.09.md",
+                "file": "Физика/29.09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Мат Анализ/06.09.md",
+                "file": "Физика/29.09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мат Анализ/06.09.md"
+                "file": "Физика/29.09.md"
               }
             }
           },
@@ -183,8 +183,11 @@
   },
   "active": "c19f8a62d3cb3d66",
   "lastOpenFiles": [
-    "Мат Анализ/02.09.md",
+    "Физика/28.09.md",
+    "Физика/07.09.md",
+    "Физика/29.09.md",
     "Мат Анализ/06.09.md",
+    "Мат Анализ/02.09.md",
     "Мат Анализ/09.09.md",
     "Мат Анализ/16.09.md",
     "Мат Анализ/20.09.md",
@@ -205,10 +208,7 @@
     "Русский язык/29.09.md",
     "Русский язык/ДЗ/29.09.md",
     "Русский язык/ДЗ/15.09.md",
-    "Физика/29.09.md",
     "Англ. Яз/28.09.md",
-    "Англ. Яз/21.09.md",
-    "Англ. Яз/07.09.md",
     "Pasted image 20230928092445.png",
     "Pasted image 20230928092401.png",
     "Безымянный-2023-09-27-0950.png",
