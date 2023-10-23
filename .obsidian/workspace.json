@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ba5af97ecda1600",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -238,7 +248,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01fd39c6ce99b164",
+  "active": "2ba5af97ecda1600",
   "lastOpenFiles": [
     "Pasted image 20231021192214.png",
     "Основы Российской Государственности/05.09.md",
